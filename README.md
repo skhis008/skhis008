@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+fullstack+web+applications.;Web+app+development+%26+cyber+security.;Based+in+Semarang,+Indonesia."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+fullstack+web+applications.;Web+app+development+%26+cyber+security.;Based+in+Kendal,+Indonesia."/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skhis008&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views">
   <img src="https://img.shields.io/github/followers/skhis008?style=flat-square&color=3B82F6" alt="Followers">
   <img src="https://img.shields.io/github/stars/skhis008?affiliations=OWNER&style=flat-square&color=3B82F6" alt="Stars">
-  <img src="https://img.shields.io/badge/Location-Semarang-3B82F6?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/Location-Kendal-3B82F6?style=flat-square" alt="Location">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## About
 
-Beginner fullstack developer focused on **web app development**, with a growing interest in **cyber security**. Informatics student at **Universitas Dian Nuswantoro**, learning by building real projects — from frontend interfaces to APIs and databases. Based in Semarang, Indonesia.
+Beginner fullstack developer focused on **web app development**, with a growing interest in **cyber security**. Informatics Engineer student at **Universitas Dian Nuswantoro**, learning by building real projects — from frontend interfaces to APIs and databases. Based in Kendal, Indonesia.
 
 <br>
 
@@ -44,7 +44,7 @@ Learning     → Golang, MongoDB, Laravel
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,tailwind"/>
 
 **Backend & Database**
 
