@@ -48,11 +48,11 @@ Learning     → Golang, MongoDB, Laravel
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,golang,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,fastapi,golang,mysql,mongodb"/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arch,postman,kali"/>
 
 `HTML5` `CSS3` `JavaScript` `TypeScript` `Vue.js` `Nuxt.js` `React` `Next.js` `Tailwind CSS` `Laravel` `PHP` `Node.js` `Python` `Golang` `MySQL` `MongoDB`
 
